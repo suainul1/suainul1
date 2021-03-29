@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **laravel,rectJs,NodeJs,ExspressJs**
 
-- 📫 How to reach me **yaqinsuainul@gmail.com**
+- 📫 How to reach me **yaqinsuainul1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
